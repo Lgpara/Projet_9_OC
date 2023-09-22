@@ -89,6 +89,13 @@ body {
         height: 847px;
     }
 }
+@media (max-width: 650px) {
+    #about {
+        height: 894px;
+    }
+}
+
+
 
 .picture.left::before {
     background-color: #e5975f;
